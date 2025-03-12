@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="./logo.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right" style="margin-top: 80px;">
 
 <p align="left"> 
   Olá, eu sou <strong>Gabrieli Moreira</strong>, sou desenvolvedora Front End com 5 anos de experiência.
@@ -20,7 +20,7 @@
 
 <p align="left">
   <a href="#" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
+  <img src="https://img.shields.io/badge/gabrieli.moreira@outlook.com.br-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabrieli.moreira@outlook.com.br" alt="Gmail"/></a>
   <a href="#" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrieli-luisa-moreira-40a4b8159/" alt="LinkedIn"/></a>
   <a href="#" title="WhatsApp">
