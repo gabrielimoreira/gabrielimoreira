@@ -20,7 +20,7 @@
 </p>
 
 <p align="left">
-  <a href="#" title="Gmail" target="_blank">
+  <a href="#" title="Gmail">
   <img src="https://img.shields.io/badge/gabrieli.moreira@outlook.com.br-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabrieli.moreira@outlook.com.br" alt="Gmail"/></a>
   <a href="https://www.linkedin.com/in/gabrieli-luisa-moreira-40a4b8159/" title="LinkedIn" target="_blank">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrieli-luisa-moreira-40a4b8159/" alt="LinkedIn"/></a>
