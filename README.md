@@ -1,8 +1,9 @@
-<img src="./logo.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right" style="margin-top: 80px;">
+<img src="./logo.png" alt="ilustração de um computador" min-width="250px" max-width="250px" width="250px" align="right" style="margin-top: 80px;">
 
 <p align="left"> 
-  Olá, eu sou <strong>Gabrieli Moreira</strong>, sou desenvolvedora Front End com 5 anos de experiência.
+  Olá, meu nome é <strong>Gabrieli Moreira</strong>, sou desenvolvedora Front End com 5 anos de experiência.
   Apaixonada por criar experiências digitais de alta qualidade.
+  
   Atualmente me aperfeiçoando cada vez mais em ReactJs.
 </p>
 
@@ -15,7 +16,7 @@
 </p>
 
 <p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+  💡 Vamos trocar uma ideia: ⤵️
 </p>
 
 <p align="left">
