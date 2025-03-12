@@ -20,10 +20,10 @@
 </p>
 
 <p align="left">
-  <a href="#" title="Gmail">
+  <a href="#" title="Gmail" target="_blank">
   <img src="https://img.shields.io/badge/gabrieli.moreira@outlook.com.br-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabrieli.moreira@outlook.com.br" alt="Gmail"/></a>
-  <a href="#" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/gabrieli-luisa-moreira-40a4b8159/" title="LinkedIn" target="_blank">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrieli-luisa-moreira-40a4b8159/" alt="LinkedIn"/></a>
-  <a href="#" title="WhatsApp">
+  <a href="https://wa.me/5516997345580" title="WhatsApp" target="_blank">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/5516997345580" alt="WhatsApp"/></a>
 </p>
