@@ -34,9 +34,9 @@
   <img align="center" alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="TypeScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <br>
+  <br>
   <img align="center" alt="Next.js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
-  <br>
-  <br>
   <img align="center" alt="Storybook" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/storybook/storybook-original.svg">
     <img align="center" alt="Styled Components" height="40" width="50" src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png">
     <img align="center" alt="Sass" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
