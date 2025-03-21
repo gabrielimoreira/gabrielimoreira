@@ -68,3 +68,6 @@
     <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
 </div>
+
+<br>
+<img src="https://raw.githubusercontent.com/gabrielimoreira/gabrielimoreira/output/snake.svg" alt="Snake animation" />
